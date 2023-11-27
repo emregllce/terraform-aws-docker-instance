@@ -10,8 +10,6 @@ Usage:
 
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIA42LO3ELC62VDHJOM"
-  secret_key = "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"
 }
 
 module "docker_instance" {
